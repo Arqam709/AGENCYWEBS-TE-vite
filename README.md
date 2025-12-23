@@ -1,4 +1,4 @@
-# Real Estate Website (React + Vite)
+# AGENCY Website (React + Vite)
 
 ## 📌 Overview
 A modern, responsive real estate / agency-style website built using React and Vite.
