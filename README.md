@@ -1,16 +1,37 @@
-# React + Vite
+# Real Estate Website (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
+A modern, responsive real estate / agency-style website built using React and Vite.
+The project focuses on clean UI design, component-based architecture, and modern frontend practices.
 
-Currently, two official plugins are available:
+## 🎯 Purpose
+This project was developed to:
+- Practice component-based UI development in React
+- Learn and apply Tailwind CSS for modern layouts
+- Implement light and dark mode switching
+- Improve UI/UX design skills
+- Work with modern frontend tooling (Vite)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Modern hero section with call-to-action
+- Light and dark mode toggle
+- Custom cursor effects
+- Services section with reusable components
+- Latest work / projects section
+- Contact section with email-based communication
+- Clean and minimal UI design
 
-## React Compiler
+## 📱 Responsiveness
+- The **home page is fully responsive**
+- Other sections are **partially responsive** and can be improved further  
+(This is intentionally mentioned as part of ongoing development.)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
+- React
+- Vite
+- JavaScript (ES6+)
+- Tailwind CSS
+- CSS
+- ESLint
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
